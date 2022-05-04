@@ -1,10 +1,17 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+## Cryptoverse - Explore the World of Cryptocurrency
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+# The project is live at:-
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+https://tathagata1805.github.io/Cryptoverse/
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+## Features:-
 
-By the end of this video, you will become the master of working with APIs.
+<br> This website shows prices of various Cryptocurrencies. </br>
+<br> This website also shows Crypto News based on API </br>
+<br> This website shows latest updates on the CryptoCurrency World. </br>
+
+## Tech Used:-
+
+<br> React JS </br>
+<br> Redux Toolkit </br>
+<br> Ant Design </br>
